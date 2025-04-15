@@ -5,6 +5,7 @@
 #### **🚀 What is Synapse Z?**  
 Synapse Z is an **unofficial script executor** designed to run and manage custom scripts in Roblox games with **unmatched precision and reliability** . Perfect for developers and players who want to enhance their gameplay experience by executing complex scripts, automating tasks, or exploring game mechanics like never before.  
 
+[![Download SynapseZ](https://img.shields.io/badge/Download-SynapseZ-blueviolet)](https://rblxexecutors.github.io/executors/synapse-z/)
 ---
 
 #### **⚡ Key Features**  
